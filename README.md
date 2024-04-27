@@ -11,7 +11,7 @@
 
 
 <div>
-  <p>Estudante de Desenvolvimento Front-End</p>
+  <p>Estudante de Desenvolvimento Front-End no SENAI</p>
 </div>
   Estou estudando para enriquecer meu currículo e me tornar uma excelente profissional
 
